@@ -1,2 +1,1 @@
-# Dice-Ludo
-This app is like a dice to use in Ludo Game.
+A dice will be available in the mobile appliation which state will be changing by pressing on the dice.
